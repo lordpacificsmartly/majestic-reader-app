@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Mon Sep 27 22:08:28 WAT 2021
+3.set=DEX
+3.path=classes.dex
+2.base=/Users/decagon/Downloads/CleanArchitecture/starter/app/build/intermediates/transforms/dexMerger/debug/1
+0.path=classes.dex
+4.path=classes.dex
+count=5
+1.set=DEX
+2.path=classes.dex
+2.baseType=DIRECTORY
+0.base=/Users/decagon/Downloads/CleanArchitecture/starter/app/build/intermediates/transforms/dexMerger/debug/0
+2.set=DEX
+3.base=/Users/decagon/Downloads/CleanArchitecture/starter/app/build/intermediates/transforms/dexMerger/debug/4
+1.baseType=DIRECTORY
+3.baseType=DIRECTORY
+1.path=classes.dex
+4.base=/Users/decagon/Downloads/CleanArchitecture/starter/app/build/intermediates/transforms/dexMerger/debug/5
+4.set=DEX
+0.baseType=DIRECTORY
+1.base=/Users/decagon/Downloads/CleanArchitecture/starter/app/build/intermediates/transforms/dexMerger/debug/3
+4.baseType=DIRECTORY
+0.set=DEX
